@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.328" height="11.333" viewBox="0 0 24.328 11.333">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_299" data-name="사각형 299" width="2" height="8" transform="translate(358 189)" fill="#ff3b30" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_675" data-name="그룹 675" transform="translate(-356 -187.333)">
+    <g id="Border" transform="translate(356 187.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+      <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+    </g>
+    <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(379 191)" fill="#fff" opacity="0.4"/>
+    <g id="마스크_그룹_600" data-name="마스크 그룹 600" clip-path="url(#clip-path)">
+      <path id="Capacity" d="M1.333,0H16.667A1.333,1.333,0,0,1,18,1.333V6a1.333,1.333,0,0,1-1.333,1.333H1.333A1.333,1.333,0,0,1,0,6V1.333A1.333,1.333,0,0,1,1.333,0Z" transform="translate(358 189.333)" fill="#ff3b30"/>
+    </g>
+  </g>
+</svg>
