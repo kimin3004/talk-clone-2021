@@ -14,17 +14,17 @@ i {
   display: flex;
   align-items: center;
   padding: 4px 6px;
-  border: 1.6px solid #3229ad;
+  border: 1.4px solid #3229ad;
   border-radius: 12px;
-  font-size: 8px;
+  font-size: 10px;
 }
 .user-component__profile-music__xs {
   display: flex;
   align-items: center;
   padding: 3px 6px;
-  border: 1.6px solid #2c2496;
+  border: 1.2px solid #2c2496;
   border-radius: 12px;
-  font-size: 6px;
+  font-size: 8px;
 }
 .user-component__profile-music__title {
   margin-left: 5px;
