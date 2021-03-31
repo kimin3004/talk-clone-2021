@@ -1,3 +1,16 @@
 .friends-screen {
-  padding: 110px var(--horizontal-space) 0px var(--horizontal-space);
+  padding: 94px var(--horizontal-space) 0px var(--horizontal-space);
+}
+.friends-screen__channel,
+.friends-screen__friends {
+  padding-top: 10px;
+  border-top: 1px solid rgb(31, 30, 37);
+}
+.friends-screen__channel-header,
+.friends-screen__friends-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  color: rgb(153, 153, 153);
 }

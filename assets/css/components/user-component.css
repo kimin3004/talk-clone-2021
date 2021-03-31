@@ -1,19 +1,75 @@
-.user-component {
-  display: flex;
+i {
+  color: gray;
 }
+.user-component {
+  justify-content: space-between;
+  margin: 18px 0px;
+}
+.user-component,
 .user-component__column:first-child {
   display: flex;
   align-items: center;
 }
+.user-component__profile-music {
+  display: flex;
+  align-items: center;
+  padding: 4px 6px;
+  border: 1.6px solid #3229ad;
+  border-radius: 12px;
+  font-size: 8px;
+}
+.user-component__profile-music__xs {
+  display: flex;
+  align-items: center;
+  padding: 3px 6px;
+  border: 1.6px solid #2c2496;
+  border-radius: 12px;
+  font-size: 6px;
+}
+.user-component__profile-music__title {
+  margin-left: 5px;
+  margin-right: 12px;
+}
 .user-component__avatar {
   margin-right: 22px;
 }
+.user-component__avatar--xl {
+  margin-right: 22px;
+  height: 60px;
+  width: 60px;
+}
 .user-component__title {
+  display: flex;
   font-size: 16px;
   font-weight: 500;
+  align-items: center;
+}
+.user-component__AD {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 10px;
+  width: 18px;
+  border: 1px solid gray;
+  border-radius: 6px;
+  font-size: 2px;
+  color: gray;
+  margin-left: 8px;
 }
 .user-component__subtitle {
   margin-top: 6px;
   font-weight: 400;
   color: rgb(173, 173, 173);
+}
+.user-component__avatar--sm {
+  width: 50px;
+  height: 50px;
+}
+.user-component__title--not-bold {
+  font-weight: 400;
+  color: rgb(226, 226, 226);
+}
+
+.user-component__column:last-child {
+  color: gray;
 }

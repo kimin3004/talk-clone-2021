@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src="../assets/variables.js"></script>
     <link rel="stylesheet" href="../assets/css/styles.css" />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -40,9 +41,51 @@
         <h6 class="user-component__subtitle">ME and KATIE💜</h6>
       </div>
     </div>
-    <div class="user-component__column"></div>
+    <div class="user-component__column">
+      <div class="user-component__profile-music">
+        <h6 class="user-component__profile-music__title">We're Good-Du...</h6>
+        <img src="../assets/images/avatars/musicplay-icon.svg" >
+      </div>
+    </div>
   </div>
-
+  <div class="friends-screen__channel">
+    <div class="friends-screen__channel-header">
+      <span>Channel</span>
+      <i class="fas fa-chevron-up fa-xs"></i>
+    </div>
+    <div class="user-component">
+      <div class="user-component__column" >
+        <img class="user-component__avatar user-component__avatar--sm" src="../assets/images/avatars/avatar_channel.svg" alt="" >
+        <div class="user-component__text">
+          <h4 class="user-component__title user-component__title--not-bold">
+            Butcher's natural food 
+            <span class="user-component__AD">AD</span>
+          </h4>
+          <h6 class="user-component__subtitle">Try our new tasty treats!</h6>
+        </div>
+      </div>
+      <div class="user-component__column">
+        <span>2</span>
+        <i class="fas fa-chevron-right fa-xs"></i>
+      </div>
+    </div>
+  </div>
+  <div class="friends-screen__friends">
+    <div class="friends-screen__friends-header">
+      <span>Friends 11</span>
+      <i class="fas fa-chevron-up fa-xs"></i>
+    </div>
+  <script>
+     user_component_xs_music('01','Buster','🍕🤸‍♂️🦴🐕🌭','Party Rock Anthe...');
+     user_component_xs('02','Duke','');
+     user_component_xs_music('03','Ellie','Carpe Diem🐾','Sunflo...');
+     user_component_xs_music('04','Loki','❌Phone broken',"Don't look back i...");
+     user_component_xs('05','Lucky','');
+     user_component_xs('11','Marley','⚾Yay!!!!⚾');
+     user_component_xs('07','Milo','🔔Alarm off ONLY CALL');
+     user_component_xs_music('08','Toby','Humble','Concerto for pia...');
+     user_component_xs('09','Vader','~5/20 Vaction');
+  </script>
 </main>
 
     <nav class="nav">
@@ -53,7 +96,7 @@
           </a>
         </li>
         <li class="nav__btn">
-          <a href="#">
+          <a href="chats.html">
             <span class="nav__notification">1</span>
             <img src="../assets/images/navigations/nav-chat_blank.svg"></a>
         </li>
@@ -76,4 +119,6 @@
 
     </body>
   </body>
+  <script src="https://kit.fontawesome.com/6478f529f2.js"
+    crossorigin="anonymous"></script>
 </html>
