@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.895" height="16.025" viewBox="0 0 15.895 16.025">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8643ff"/>
+      <stop offset="1" stop-color="#4136f1"/>
+    </linearGradient>
+  </defs>
+  <g id="music-player_1_" data-name="music-player (1)" transform="translate(0 0)">
+    <g id="그룹_40" data-name="그룹 40" transform="translate(0 0)">
+      <path id="패스_9" data-name="패스 9" d="M17.727.177a.722.722,0,0,0-.575-.169L7.05,1.451a.722.722,0,0,0-.62.714v8.461a2.9,2.9,0,1,0,1.443,2.5V5.677L16.533,4.44V9.182a2.9,2.9,0,1,0,1.443,2.5V.722A.722.722,0,0,0,17.727.177ZM4.977,14.582A1.453,1.453,0,1,1,6.43,13.129,1.455,1.455,0,0,1,4.977,14.582Zm11.556-11.6L7.873,4.22V2.791l8.659-1.237ZM15.08,13.139a1.453,1.453,0,1,1,1.453-1.453A1.455,1.455,0,0,1,15.08,13.139Z" transform="translate(-2.081 0)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

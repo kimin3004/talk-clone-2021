@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="5.576" viewBox="0 0 21 5.576">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8643ff"/>
+      <stop offset="1" stop-color="#4136f1"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_35" data-name="그룹 35" transform="translate(-307.429 -598.712)">
+    <ellipse id="Ellipse_744" cx="2.864" cy="2.788" rx="2.864" ry="2.788" transform="translate(315.065 598.712)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_744-2" data-name="Ellipse_744" cx="2.864" cy="2.788" rx="2.864" ry="2.788" transform="translate(322.701 598.712)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_744-3" data-name="Ellipse_744" cx="2.864" cy="2.788" rx="2.864" ry="2.788" transform="translate(307.429 598.712)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

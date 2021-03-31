@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="5.576" viewBox="0 0 21 5.576">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8643ff"/>
+      <stop offset="1" stop-color="#4136f1"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_35" data-name="그룹 35" transform="translate(-307.429 -598.712)">
+    <ellipse id="Ellipse_744" cx="2.864" cy="2.788" rx="2.864" ry="2.788" transform="translate(315.065 598.712)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_744-2" data-name="Ellipse_744" cx="2.864" cy="2.788" rx="2.864" ry="2.788" transform="translate(322.701 598.712)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_744-3" data-name="Ellipse_744" cx="2.864" cy="2.788" rx="2.864" ry="2.788" transform="translate(307.429 598.712)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_744-4" data-name="Ellipse_744" cx="1" cy="1" r="1" transform="translate(324.565 600.5)" fill="#15141a"/>
+    <circle id="Ellipse_744-5" data-name="Ellipse_744" cx="1" cy="1" r="1" transform="translate(316.929 600.5)" fill="#15141a"/>
+    <circle id="Ellipse_744-6" data-name="Ellipse_744" cx="1" cy="1" r="1" transform="translate(309.292 600.5)" fill="#15141a"/>
+  </g>
+</svg>

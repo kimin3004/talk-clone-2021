@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.121" height="23.121" viewBox="0 0 23.121 23.121">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.844" y1="-1.751" x2="-2.194" y2="0.219" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8643ff"/>
+      <stop offset="1" stop-color="#4136f1"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_34" data-name="그룹 34" transform="translate(-221 -591)">
+    <g id="search" transform="translate(221 591)">
+      <path id="Path" d="M5.075,5.075,0,0" transform="translate(15.925 15.925)" stroke="#5b42fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" fill="url(#linear-gradient)"/>
+      <circle id="Oval" cx="9.5" cy="9.5" r="9.5" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="search-2" data-name="search" transform="translate(223.774 593.774)">
+      <circle id="Oval-2" data-name="Oval" cx="6.5" cy="6.5" r="6.5" transform="translate(0.226 0.226)" fill="#14121e"/>
+    </g>
+  </g>
+</svg>
